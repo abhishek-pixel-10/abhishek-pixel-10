@@ -17,4 +17,4 @@
 - Learn data visualization
 - Create a strong developer profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-pixel-10&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-pixel-10&show_icons=true&theme=radical&cache_seconds=1800)
