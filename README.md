@@ -3,7 +3,6 @@
 🎓 Computer Engineering Student  
 💻 Learning C, Python, SQL, Git & GitHub  
 📊 Aspiring Data Analyst  
-🚀 Building my skills step by step
 
 ## Current Learning
 - C Programming
