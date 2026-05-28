@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek 👋
+# Hi, I'm Abhishek 
 
 🎓 Computer Engineering Student  
 💻 Learning C, Python, SQL, Git & GitHub  
